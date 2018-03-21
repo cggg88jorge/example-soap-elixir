@@ -1,0 +1,6 @@
+%{
+  "detergent": {:hex, :detergent, "0.3.0", "564792f4eec88d787628d115cef89d9f0e42eb7012c9313cb0dcda89696bb904", [:rebar], [], "hexpm"},
+  "detergentex": {:hex, :detergentex, "0.0.5", "e1ed3be3a09f96cc45d24fc8148c545af6d4ed3eb6d35466a9308f137ea8ebc0", [:mix], [{:detergent, "~> 0.3.0", [hex: :detergent, repo: "hexpm", optional: false]}], "hexpm"},
+  "erlsom": {:git, "https://github.com/willemdj/erlsom.git", "1a9ea1a16ed2cf0466c11608367612d8b05ea6ae", []},
+  "sweet_xml": {:hex, :sweet_xml, "0.6.5", "dd9cde443212b505d1b5f9758feb2000e66a14d3c449f04c572f3048c66e6697", [:mix], [], "hexpm"},
+}
